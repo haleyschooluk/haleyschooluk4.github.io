@@ -333,11 +333,6 @@
         "logo": "http://4.haleyschool.uk/21.snake/retro-snake/logo.png"
       },
       {
-        "name": "snake",
-        "url": "http://4.haleyschool.uk/21.snake/snake/index.html",
-        "logo": "http://4.haleyschool.uk/21.snake/snake/logo.png"
-      },
-      {
         "name": "snake-block",
         "url": "http://4.haleyschool.uk/21.snake/snake-block/index.html",
         "logo": "http://4.haleyschool.uk/21.snake/snake-block/logo.png"
@@ -351,6 +346,11 @@
         "name": "snake-nokia",
         "url": "http://4.haleyschool.uk/21.snake/snake-nokia/index.html",
         "logo": "http://4.haleyschool.uk/21.snake/snake-nokia/logo.png"
+      },
+      {
+        "name": "snake",
+        "url": "http://4.haleyschool.uk/21.snake/snake/index.html",
+        "logo": "http://4.haleyschool.uk/21.snake/snake/logo.png"
       },
       {
         "name": "snake3310",
@@ -418,11 +418,6 @@
         "logo": "http://4.haleyschool.uk/23.stickman/stickjetchallenge/logo.png"
       },
       {
-        "name": "stickman",
-        "url": "http://4.haleyschool.uk/23.stickman/stickman/index.html",
-        "logo": "http://4.haleyschool.uk/23.stickman/stickman/logo.png"
-      },
-      {
         "name": "stickman-boost",
         "url": "http://4.haleyschool.uk/23.stickman/stickman-boost/index.html",
         "logo": "http://4.haleyschool.uk/23.stickman/stickman-boost/logo.png"
@@ -441,6 +436,11 @@
         "name": "stickman-hook",
         "url": "http://4.haleyschool.uk/23.stickman/stickman-hook/index.html",
         "logo": "http://4.haleyschool.uk/23.stickman/stickman-hook/logo.png"
+      },
+      {
+        "name": "stickman",
+        "url": "http://4.haleyschool.uk/23.stickman/stickman/index.html",
+        "logo": "http://4.haleyschool.uk/23.stickman/stickman/logo.png"
       },
       {
         "name": "stickmanboost",
@@ -478,11 +478,6 @@
     "category": "subway-surfers",
     "games": [
       {
-        "name": "subway-surfers",
-        "url": "http://4.haleyschool.uk/24.subway-surfers/subway-surfers/index.html",
-        "logo": "http://4.haleyschool.uk/24.subway-surfers/subway-surfers/logo.png"
-      },
-      {
         "name": "subway-surfers-san-francisco",
         "url": "http://4.haleyschool.uk/24.subway-surfers/subway-surfers-san-francisco/index.html",
         "logo": "http://4.haleyschool.uk/24.subway-surfers/subway-surfers-san-francisco/logo.png"
@@ -496,6 +491,11 @@
         "name": "subway-surfers-unity",
         "url": "http://4.haleyschool.uk/24.subway-surfers/subway-surfers-unity/index.html",
         "logo": "http://4.haleyschool.uk/24.subway-surfers/subway-surfers-unity/logo.png"
+      },
+      {
+        "name": "subway-surfers",
+        "url": "http://4.haleyschool.uk/24.subway-surfers/subway-surfers/index.html",
+        "logo": "http://4.haleyschool.uk/24.subway-surfers/subway-surfers/logo.png"
       },
       {
         "name": "subwaysurfers",
@@ -513,14 +513,14 @@
     "category": "time-shooter",
     "games": [
       {
-        "name": "Time-Shooter",
-        "url": "http://4.haleyschool.uk/25.time-shooter/Time-Shooter/index.html",
-        "logo": "http://4.haleyschool.uk/25.time-shooter/Time-Shooter/logo.png"
-      },
-      {
         "name": "Time-Shooter-swat",
         "url": "http://4.haleyschool.uk/25.time-shooter/Time-Shooter-swat/index.html",
         "logo": "http://4.haleyschool.uk/25.time-shooter/Time-Shooter-swat/logo.png"
+      },
+      {
+        "name": "Time-Shooter",
+        "url": "http://4.haleyschool.uk/25.time-shooter/Time-Shooter/index.html",
+        "logo": "http://4.haleyschool.uk/25.time-shooter/Time-Shooter/logo.png"
       },
       {
         "name": "time-shooter-2",
@@ -748,6 +748,11 @@
         "logo": "http://4.haleyschool.uk/29.puzzle-and-board/pet-connect/logo.png"
       },
       {
+        "name": "poker",
+        "url": "http://4.haleyschool.uk/29.puzzle-and-board/poker/index.html",
+        "logo": "http://4.haleyschool.uk/29.puzzle-and-board/poker/logo.png"
+      },
+      {
         "name": "portal-flash",
         "url": "http://4.haleyschool.uk/29.puzzle-and-board/portal-flash/index.html",
         "logo": "http://4.haleyschool.uk/29.puzzle-and-board/portal-flash/logo.png"
@@ -776,6 +781,11 @@
         "name": "sudokunew4",
         "url": "http://4.haleyschool.uk/29.puzzle-and-board/sudokunew4/index.html",
         "logo": "http://4.haleyschool.uk/29.puzzle-and-board/sudokunew4/logo.png"
+      },
+      {
+        "name": "superhero-drop-and-save-gh-pages",
+        "url": "http://4.haleyschool.uk/29.puzzle-and-board/superhero-drop-and-save-gh-pages/index.html",
+        "logo": "http://4.haleyschool.uk/29.puzzle-and-board/superhero-drop-and-save-gh-pages/logo.png"
       },
       {
         "name": "sushi-unroll",
